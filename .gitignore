@@ -1,0 +1,21 @@
+# Private config files
+application.properties
+*.properties
+
+# Environment files
+.env
+.env.local
+
+# Build files
+target/
+*.class
+*.jar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
