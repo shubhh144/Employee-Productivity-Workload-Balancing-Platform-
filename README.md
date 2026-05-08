@@ -303,15 +303,7 @@ Commit     → IN_PROGRESS (valid if files≥1, lines≥1, <24hrs)
 GET /github/check/{taskId}
 ```
 
----
 
-## 👥 Team Members
-
-| Member | Role | Contribution |
-|--------|------|-------------|
-| Member 1 | Frontend Developer | React UI, Pages, Routing, Axios Integration |
-| Member 2 | Backend Developer | Spring Boot APIs, Database, Security, Business Logic |
-| Member 3 (Shubham) | Project Lead | Architecture, GitHub Integration, Full Stack, System Design |
 
 ---
 
